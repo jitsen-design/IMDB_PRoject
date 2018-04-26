@@ -1,0 +1,1 @@
+This model aims to predict cumulative worldwide income of a motion picture that is predicated on a theme of 'drama'. As can be inferred from the statistics in the accompanying table, we would most likely keep all features for our prediction barring 'director status'as well as the 'romance', 'thriller' and 'crime' genres.
