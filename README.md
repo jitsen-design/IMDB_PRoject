@@ -15,7 +15,7 @@ This project was a linear regression task, and I used both the SK-Learn and Stat
 
 In conclusion, we would most likely keep all features for our prediction, barring 'director status'as well as the 'romance', 'thriller' and 'crime' genres.
 
-![Slides]https://github.com/jitsen-design/IMDB_Project/blob/master/Data_Science_Meets_Hollywood.pdf
+![Slides](https://github.com/jitsen-design/IMDB_Project/blob/master/Data_Science_Meets_Hollywood.pdf)
 
 
 
